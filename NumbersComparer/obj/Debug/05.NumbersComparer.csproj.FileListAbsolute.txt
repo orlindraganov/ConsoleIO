@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConsoleIO\NumbersComparer\bin\Debug\NumbersComparer.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\NumbersComparer\bin\Debug\NumbersComparer.exe
+D:\Orlinovski Tapotii\ConsoleIO\NumbersComparer\bin\Debug\NumbersComparer.pdb
+D:\Orlinovski Tapotii\ConsoleIO\NumbersComparer\obj\Debug\NumbersComparer.exe
+D:\Orlinovski Tapotii\ConsoleIO\NumbersComparer\obj\Debug\NumbersComparer.pdb

@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\ConsoleIO\Circle\bin\Debug\Circle.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\Circle\bin\Debug\Circle.exe
+D:\Orlinovski Tapotii\ConsoleIO\Circle\bin\Debug\Circle.pdb
+D:\Orlinovski Tapotii\ConsoleIO\Circle\obj\Debug\03.Circle.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\ConsoleIO\Circle\obj\Debug\Circle.exe
+D:\Orlinovski Tapotii\ConsoleIO\Circle\obj\Debug\Circle.pdb

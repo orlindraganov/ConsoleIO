@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConsoleIO\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+D:\Orlinovski Tapotii\ConsoleIO\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+D:\Orlinovski Tapotii\ConsoleIO\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+D:\Orlinovski Tapotii\ConsoleIO\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

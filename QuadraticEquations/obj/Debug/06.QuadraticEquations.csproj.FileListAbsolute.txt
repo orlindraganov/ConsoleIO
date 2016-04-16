@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConsoleIO\QuadraticEquations\bin\Debug\QuadraticEquations.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\QuadraticEquations\bin\Debug\QuadraticEquations.exe
+D:\Orlinovski Tapotii\ConsoleIO\QuadraticEquations\bin\Debug\QuadraticEquations.pdb
+D:\Orlinovski Tapotii\ConsoleIO\QuadraticEquations\obj\Debug\QuadraticEquations.exe
+D:\Orlinovski Tapotii\ConsoleIO\QuadraticEquations\obj\Debug\QuadraticEquations.pdb

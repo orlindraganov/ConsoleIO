@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConsoleIO\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+D:\Orlinovski Tapotii\ConsoleIO\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+D:\Orlinovski Tapotii\ConsoleIO\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+D:\Orlinovski Tapotii\ConsoleIO\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb

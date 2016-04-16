@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConsoleIO\Interval\bin\Debug\Interval.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\Interval\bin\Debug\Interval.exe
+D:\Orlinovski Tapotii\ConsoleIO\Interval\bin\Debug\Interval.pdb
+D:\Orlinovski Tapotii\ConsoleIO\Interval\obj\Debug\Interval.exe
+D:\Orlinovski Tapotii\ConsoleIO\Interval\obj\Debug\Interval.pdb

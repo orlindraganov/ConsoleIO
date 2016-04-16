@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConsoleIO\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\Orlinovski Tapotii\ConsoleIO\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\Orlinovski Tapotii\ConsoleIO\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\Orlinovski Tapotii\ConsoleIO\CompanyInfo\obj\Debug\CompanyInfo.pdb

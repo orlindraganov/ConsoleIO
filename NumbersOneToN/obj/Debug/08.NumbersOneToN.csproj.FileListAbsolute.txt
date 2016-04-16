@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConsoleIO\NumbersOneToN\bin\Debug\NumbersOneToN.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\NumbersOneToN\bin\Debug\NumbersOneToN.exe
+D:\Orlinovski Tapotii\ConsoleIO\NumbersOneToN\bin\Debug\NumbersOneToN.pdb
+D:\Orlinovski Tapotii\ConsoleIO\NumbersOneToN\obj\Debug\NumbersOneToN.exe
+D:\Orlinovski Tapotii\ConsoleIO\NumbersOneToN\obj\Debug\NumbersOneToN.pdb

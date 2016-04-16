@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\ConsoleIO\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config
+D:\Orlinovski Tapotii\ConsoleIO\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe
+D:\Orlinovski Tapotii\ConsoleIO\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.pdb
+D:\Orlinovski Tapotii\ConsoleIO\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\ConsoleIO\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.exe
+D:\Orlinovski Tapotii\ConsoleIO\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.pdb
